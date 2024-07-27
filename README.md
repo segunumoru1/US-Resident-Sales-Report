@@ -87,33 +87,14 @@ The analysis was conducted using Power BI, leveraging its robust data visualizat
 
 ## Business Recommendations
 ![Business Recommendation](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-6.jpg)
-1. **Focus on High-Performing Regions**: Prioritize marketing and sales efforts in California, New York, and Texas due to their high sales net profits.
-2. **Optimize Shipping Processes**: Improve shipping efficiency in months with lower performance (e.g., June and February) to reduce delivery times.
-3. **Enhance In-Store and Online Channels**: Invest in both in-store and online sales channels as they contribute significantly to net profits and order processing efficiency.
-4. **Product Portfolio Management**: Increase focus on high-performing products like Serveware and Cocktail, while reevaluating the strategy for low-performing products like Bedroom furniture and Cookware.
-5. **Sales Team Incentives**: Provide incentives and training to underperforming sales teams to boost their productivity and net profit contributions.
 
 
 ## Executive Summary
 ![Executive Summary](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-7.jpg)
-- **Prioritize Marketing and Sales in High-Performing Regions**:
-  - Focus efforts in California, New York, and Texas, which have demonstrated high sales net profits.
 
-- **Optimize Shipping Efficiency**:
-  - Improve shipping processes during low-performance months (June and February) to decrease delivery times and enhance customer satisfaction.
-
-- **Enhance In-Store and Online Sales Channels**:
-  - Invest in both in-store and online channels, as they significantly contribute to overall net profits and efficient order processing.
-
-- **Manage Product Portfolio Effectively**:
-  - Increase focus on high-performing products like Serveware and Cocktail.
-  - Reevaluate and develop strategies for low-performing products such as Bedroom furniture and Cookware to improve profitability.
-
-- **Boost Sales Team Productivity**:
-  - Implement incentive programs and provide additional training to underperforming sales teams to increase their net profit contributions and overall productivity.
 
 This comprehensive analysis provides a clear understanding of the US retail sales performance from 2018 to 2021, enabling data-driven decision-making to enhance overall business 
 performance.
 
 ## Here is the link to the Power BI Report file:
-[US Retail Sales Power BI Report]()
+[US Retail Sales Power BI Report](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Report.pbix)
