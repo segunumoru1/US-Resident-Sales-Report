@@ -37,6 +37,7 @@ The analysis was conducted using Power BI, leveraging its robust data visualizat
   - In July 2019, Weimei Corp. led with a net profit of $39K, followed closely by Pure Group with $38K.
   - Medline was the top customer with the highest sales net profit at $0.85M.
   - Donald Reynolds's sales team achieved the highest sales net profit with $1.25M, followed by Todd Roberts with $1.22M.
+  - ![Sales Analysis Report](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-0.jpg)
 
 ### Cost Analysis
 - **Key Insights**:
