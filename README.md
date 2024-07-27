@@ -12,6 +12,7 @@
    - [Channel Performance Analysis](#channel-performance-analysis)
    - [Location Demography Analysis](#location-demography-analysis)
 5. [Business Recommendations](#business-recommendations)
+6. [Executive Summary](#executive-summary)
 
 ## Problem Statement
 The primary objective of this analysis is to provide a comprehensive understanding of the US retail sales landscape from 2018 to 2021. This includes examining sales performance, cost efficiency, shipping effectiveness, sales team contributions, channel performance, and demographic impacts on sales. The goal is to identify key insights and trends to inform strategic business decisions and improve overall performance.
@@ -27,7 +28,7 @@ The analysis was conducted using Power BI, leveraging its robust data visualizat
 
 ## Tools and Technologies Used
 - **Power BI**: For data visualization and analysis.
-- **Excel/SQL**: For data preprocessing and cleaning.
+- **Excel**: For data preprocessing and cleaning.
 
 ## Analysis Pages
 
