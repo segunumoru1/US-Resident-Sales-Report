@@ -32,34 +32,42 @@ The analysis was conducted using Power BI, leveraging its robust data visualizat
 ## Analysis Pages
 
 ### Sales Analysis
+![Sales Analysis Report](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-0.jpg)
 - **Key Insights**:
   - In 2020, California had the highest sales net profit with a total value of $2.5M, while New York was fourth with $0.7M.
   - In July 2019, Weimei Corp. led with a net profit of $39K, followed closely by Pure Group with $38K.
   - Medline was the top customer with the highest sales net profit at $0.85M.
   - Donald Reynolds's sales team achieved the highest sales net profit with $1.25M, followed by Todd Roberts with $1.22M.
-  - ![Sales Analysis Report](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-0.jpg)
+
 
 ### Cost Analysis
+![Cost Analysis Report](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-1.jpg)
 - **Key Insights**:
   - In July 2019, Weimei Corp. had the highest sales net profit at $39K, followed by Pure Group with $38K.
   - Bedroom furniture had the lowest product profit at $124K, followed by Cookware at $123K.
   - There is a positive correlation between unit price and unit cost, indicating that an increase in unit cost leads to an increase in unit price.
   - Serveware and Cocktail were the top-performing products with a profit of $0.18M, followed by Cocktail Glasses at $0.17M.
 
+
 ### Shipping Analysis
+![Shipping Analysis Report](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-2.jpg)
 - **Key Insights**:
   - January 2019 and November 2020 had the highest total delivery days under 15 days (95 days), while June 2018 and February 2019 had the lowest.
   - Cocktail Glasses and Wail Frames had the highest count of products delivered under 15 days (62), followed by Candleholders (58).
   - May had the highest percentage of deliveries under 15 days (29.95%), followed by November (29.8%), with September having the least (24.16%).
 
+
 ### Sales Team Analysis
+![Sales Team Analysis Report](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-3.jpg)
 - **Key Insights**:
   - Donald Reynolds's sales team generated the highest sales net profit ($1.25M), followed by Todd Roberts ($1.22M).
   - Shawn Wallace's team handled the highest quantity of product orders (1476).
   - Shawn Torres's team had the least sales net profit ($0.96M).
   - The Midwest sales team had the highest contribution (28.88%), followed by the West (25.05%).
 
+
 ### Channel Performance Analysis
+![Channel Performance Analysis Report](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-4.jpg)
 - **Key Insights**:
   - In-store sales channels generated the most sales net profit (41.2%), followed by Online (29.5%).
   - In-store sales channels received the most orders under 15 days (42.67%), followed by Online (29.04%).
@@ -67,14 +75,18 @@ The analysis was conducted using Power BI, leveraging its robust data visualizat
   - Online channels had the highest percentage contribution to delivery under 15 days (30.29%), followed by Wholesale (29.39%).
   - In-store incurred the highest total cost in producing products ($3.4M), followed by Wholesale ($3.1M).
 
+
 ### Location Demography Analysis
+![Location Demography Analysis Report](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-5.jpg)
 - **Key Insights**:
   - The West region had the highest product profit contribution (34.16%), followed by the South (33.07%).
   - Cities had the highest median income ($15.6M), followed by Townships ($2.0M).
   - New York, California, and Texas had the highest sales net profits ($7.5M, $6.4M, and $4.4M respectively) due to high household incomes.
   - Los Angeles County had the highest sales net profit ($85K), followed by Cook County ($70K).
 
+
 ## Business Recommendations
+![Business Recommendation](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-6.jpg)
 1. **Focus on High-Performing Regions**: Prioritize marketing and sales efforts in California, New York, and Texas due to their high sales net profits.
 2. **Optimize Shipping Processes**: Improve shipping efficiency in months with lower performance (e.g., June and February) to reduce delivery times.
 3. **Enhance In-Store and Online Channels**: Invest in both in-store and online sales channels as they contribute significantly to net profits and order processing efficiency.
@@ -83,7 +95,7 @@ The analysis was conducted using Power BI, leveraging its robust data visualizat
 
 
 ## Executive Summary
-
+![Executive Summary](https://github.com/segunumoru1/US-Retail-Sales-Report/blob/main/US%20Resident%20Sales%20Data%20Report-images-7.jpg)
 - **Prioritize Marketing and Sales in High-Performing Regions**:
   - Focus efforts in California, New York, and Texas, which have demonstrated high sales net profits.
 
@@ -102,3 +114,6 @@ The analysis was conducted using Power BI, leveraging its robust data visualizat
 
 This comprehensive analysis provides a clear understanding of the US retail sales performance from 2018 to 2021, enabling data-driven decision-making to enhance overall business 
 performance.
+
+## Here is the link to the Power BI Report file:
+[US Retail Sales Power BI Report]()
