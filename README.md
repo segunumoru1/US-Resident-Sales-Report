@@ -1,6 +1,3 @@
-# US-Retail-Sales-Report
-The primary objective of this analysis is to provide a comprehensive understanding of the US retail sales landscape from 2018 to 2021.
-
 # US Retail Sales Report (2018-2021) Analysis using Power BI
 
 ## Table of Contents
@@ -18,6 +15,7 @@ The primary objective of this analysis is to provide a comprehensive understandi
 
 ## Problem Statement
 The primary objective of this analysis is to provide a comprehensive understanding of the US retail sales landscape from 2018 to 2021. This includes examining sales performance, cost efficiency, shipping effectiveness, sales team contributions, channel performance, and demographic impacts on sales. The goal is to identify key insights and trends to inform strategic business decisions and improve overall performance.
+
 
 ## Methodology
 The analysis was conducted using Power BI, leveraging its robust data visualization and analytical capabilities. The data was sourced from the company's sales, cost, shipping, and demographic records. The following steps were taken:
