@@ -80,4 +80,24 @@ The analysis was conducted using Power BI, leveraging its robust data visualizat
 4. **Product Portfolio Management**: Increase focus on high-performing products like Serveware and Cocktail, while reevaluating the strategy for low-performing products like Bedroom furniture and Cookware.
 5. **Sales Team Incentives**: Provide incentives and training to underperforming sales teams to boost their productivity and net profit contributions.
 
-This comprehensive analysis provides a clear understanding of the US retail sales performance from 2018 to 2021, enabling data-driven decision-making to enhance overall business performance.
+
+## Executive Summary
+
+- **Prioritize Marketing and Sales in High-Performing Regions**:
+  - Focus efforts in California, New York, and Texas, which have demonstrated high sales net profits.
+
+- **Optimize Shipping Efficiency**:
+  - Improve shipping processes during low-performance months (June and February) to decrease delivery times and enhance customer satisfaction.
+
+- **Enhance In-Store and Online Sales Channels**:
+  - Invest in both in-store and online channels, as they significantly contribute to overall net profits and efficient order processing.
+
+- **Manage Product Portfolio Effectively**:
+  - Increase focus on high-performing products like Serveware and Cocktail.
+  - Reevaluate and develop strategies for low-performing products such as Bedroom furniture and Cookware to improve profitability.
+
+- **Boost Sales Team Productivity**:
+  - Implement incentive programs and provide additional training to underperforming sales teams to increase their net profit contributions and overall productivity.
+
+This comprehensive analysis provides a clear understanding of the US retail sales performance from 2018 to 2021, enabling data-driven decision-making to enhance overall business 
+performance.
